@@ -1,0 +1,77 @@
+/* Home Page */
+
+.index {
+    padding-top: 2rem;
+    margin: 3rem 0;
+}
+
+.index hr {
+    width: 90%;
+    height: 2px;
+    margin: 2rem auto;
+    box-shadow: 0 0 50px 2px rgba(255, 255, 255, 0.534);
+    background-color:rgba(255, 255, 255, 0.527);
+}
+
+.index .row {
+    text-align: center;
+    margin: 1rem auto;
+    width: 97.5%;
+}
+
+.index .landing-container {
+    margin: 2rem auto 3rem auto;
+    padding: 5rem 0;
+    text-align: center;
+}
+
+.index .landing-container h1 {
+    color: #eaf3ff;
+    font: bold 8rem "Quicksand", sans-serif;
+    transform: skewX(-6deg);
+    margin: 0.1rem auto;
+}
+
+.index .landing-container h2 {
+    font: bold 2.25rem;
+    color: #ffffff;
+}
+
+.index .landing-container h4 {
+    font-size: 1.25rem;
+    color: #ffffff;
+    transform: skewX(-12deg);
+    margin: 0.5rem auto;
+}
+
+.index .photo-container {
+    margin: 0 auto;
+}
+
+.index .photo-container img {
+    box-shadow: 0 0 30px 5px #b47bff98;   
+    height: 20rem;
+    margin: 1.5rem auto 0 auto;
+    padding: 0 2rem;
+}
+
+.index .about-me-container {
+    background-color: #202020a2;
+    line-height: 2;
+    margin: 1.5rem auto 3rem auto;
+    padding: 1rem 1rem;
+}
+
+.index .about-me-container p {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.index .skills-container {
+    margin: 2rem auto 2rem auto;
+}
+
+.index .skills-container img {
+   width: 70vw;
+   margin: 0 auto 3rem auto;
+}

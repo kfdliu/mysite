@@ -1,0 +1,42 @@
+/* Contacts Page */
+
+.contact .row {
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact .contact-item {
+    margin: 1.5rem 1.5rem;
+    padding: 2rem 2rem;
+    box-shadow: 0 0 3px 3px #8181814b;
+    color: white;
+    text-align: center;
+}
+
+.contact .box1 {
+    background-color: #ff161663;
+}
+.contact .box2 {
+    background-color: #64ffac78;
+}
+.contact .box3 {
+    background-color: #7dc7f178;
+}
+.contact .box4 {
+    background-color: #946dff9b;
+}
+
+.contact a {
+    color: #f6ec8cdc;
+}
+
+.contact img {
+    width: 5rem;
+    margin: 1rem auto;
+}
+
+.contact h2 {
+    color: white;
+    font-size: 1.3rem;
+}

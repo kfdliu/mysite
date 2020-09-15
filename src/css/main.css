@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    margin: 0 0;
+    padding: 0 0;
+    font-family: "Montserrat", sans-serif;
+    background-image: url(https://res.cloudinary.com/davis-cloud/image/upload/v1599341333/background_d7uczd.jpg);
+}
+
+.top-button .btn {
+    margin: 1rem auto;
+    position: fixed;
+    width: 90px;
+    height: 40px;
+    bottom: 6.2rem;
+    right: calc(50% - 45px);
+    z-index: 999;
+    opacity: 0.6;
+    border: 1px white solid;
+}
+
+.top-button img {
+    margin: 1rem auto;
+    position: fixed;
+    width: 40px;
+    height: 30px;
+    bottom: 6.6rem;
+    right: calc(50% - 20px);
+}
+
+a:focus {
+    outline: none;
+}
+
+.title {
+    max-width: 30rem;
+    font-size: 2rem;
+    background-color: #90818136;
+    box-shadow: 0 0 10px 5px #ffffffd7;
+    margin: 1rem auto;
+    padding: 1rem 1rem;
+    color: white;
+    text-align: center;
+}

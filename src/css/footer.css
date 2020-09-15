@@ -1,0 +1,24 @@
+footer {
+    background-color: #90818136;
+    width: 95%;
+    margin: 5rem auto 1rem auto;
+    padding: 0 1rem 0 0.65rem;
+}
+
+footer .row {
+    max-height: 4rem
+}
+
+footer p {
+    color: white;
+    margin: 1.5rem 0;
+    padding: 0 0.5rem;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+footer img {
+    display: block;
+    height: 3rem;
+    margin: 0.5rem auto;
+}
